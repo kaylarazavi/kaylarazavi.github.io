@@ -3,8 +3,8 @@ body {
 }
 
 header {
-  background: url(../images/heroimage.jpg) center / cover;
-  height: 60vh
+  background: url(Users/kaylarazavi/portfolio/images/heroimage.jpg) center / cover;
+  height: 60vh;
   justify-content: center;
   text-align: center;
 }
@@ -45,8 +45,8 @@ footer.mdl-mini-footer > ul {
   font-size: 2rem;
 }
 
-@@media screen and (max-width: 1024px) {
-  header.mdl-layout__header{
+@media screen and (max-width: 1024px) {
+  header.mdl-layout__header {
     display: flex;
   }
 }
